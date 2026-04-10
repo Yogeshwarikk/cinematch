@@ -1,0 +1,15 @@
+# CineMatch — Movie Recommendation System
+# =========================================
+# Core data science
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.4.2
+
+# Web app
+streamlit==1.35.0
+
+# TMDB API calls
+requests==2.32.3
+
+# Environment variable management
+python-dotenv==1.0.1
