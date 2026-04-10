@@ -2,7 +2,8 @@
 🎬 CineMatch - AI Movie Recommendation System
 Uses OMDb API (Free) — http://www.omdbapi.com/apikey.aspx
 """
-
+from setup import build_artifacts
+build_artifacts()
 import streamlit as st
 import pandas as pd
 import pickle

@@ -5,8 +5,8 @@ __pycache__/
 .env
 
 # Data & model artifacts (large files)
-data/
-artifacts/
+
+
 
 # Streamlit secrets
 .streamlit/secrets.toml
